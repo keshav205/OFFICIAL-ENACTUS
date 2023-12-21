@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/OFFICIAL-ENACTUS/static/css/main.9bd49a39.css",
+    "main.js": "/OFFICIAL-ENACTUS/static/js/main.aa3bd6e1.js",
+    "static/media/Shreyash.png": "/OFFICIAL-ENACTUS/static/media/Shreyash.0b537fe1c887bd2e0886.png",
+    "static/media/arpita.png": "/OFFICIAL-ENACTUS/static/media/arpita.5a4c7cafb34eb88a80c2.png",
+    "static/media/nikhil.png": "/OFFICIAL-ENACTUS/static/media/nikhil.93a5c70a69aed3514cb7.png",
+    "static/media/nandni (1).png": "/OFFICIAL-ENACTUS/static/media/nandni (1).993237f378c3915c0f8b.png",
+    "static/media/Saisiddhant.png": "/OFFICIAL-ENACTUS/static/media/Saisiddhant.4b6bbd20d895c81810dc.png",
+    "static/media/doyel.jpg": "/OFFICIAL-ENACTUS/static/media/doyel.264e97187e9124115127.jpg",
+    "static/media/Pratysh.jpg": "/OFFICIAL-ENACTUS/static/media/Pratysh.b349f3ae651b21cced9b.jpg",
+    "static/media/vaishnavi.jpg": "/OFFICIAL-ENACTUS/static/media/vaishnavi.da1f3a98c8e8d1036b7e.jpg",
+    "static/media/6.jpeg": "/OFFICIAL-ENACTUS/static/media/6.37a1b5fae8466fbf2278.jpeg",
+    "static/media/lakshita.jpeg": "/OFFICIAL-ENACTUS/static/media/lakshita.0e4af26868e59fa7eb9d.jpeg",
+    "static/media/team.jpeg": "/OFFICIAL-ENACTUS/static/media/team.8300afbb889462ba725d.jpeg",
+    "static/media/Yashika Dureja - Content Head(1).JPG": "/OFFICIAL-ENACTUS/static/media/Yashika Dureja - Content Head(1).5a6fda667f451b34917d.JPG",
+    "static/media/Project Gulsair logo.png": "/OFFICIAL-ENACTUS/static/media/Project Gulsair logo.ff4289c5fd6a332cc6b6.png",
+    "static/media/main.jpeg": "/OFFICIAL-ENACTUS/static/media/main.684332bd799a2bb89f88.jpeg",
+    "static/media/design.jpg": "/OFFICIAL-ENACTUS/static/media/design.268913ed224dc31c0d8e.jpg",
+    "static/media/logo.png": "/OFFICIAL-ENACTUS/static/media/logo.5c7ba29a37da53991fb5.png",
+    "index.html": "/OFFICIAL-ENACTUS/index.html",
+    "main.9bd49a39.css.map": "/OFFICIAL-ENACTUS/static/css/main.9bd49a39.css.map",
+    "main.aa3bd6e1.js.map": "/OFFICIAL-ENACTUS/static/js/main.aa3bd6e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd49a39.css",
+    "static/js/main.aa3bd6e1.js"
+  ]
+}
